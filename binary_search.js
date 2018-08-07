@@ -1,4 +1,7 @@
-// Búsqueda Binaria Log base 2 de (n)
+/*
+    Búsqueda Binaria 
+        O(Log n)
+*/
 function binary_search(list, item){
 
     let low = 0;                        // low y high llevan cuenta de en qué parte de la lista estarás buscando
