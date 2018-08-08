@@ -31,4 +31,4 @@ let selectionSort = (array) => {    // Ordena un arreglo
     return sortedArray;
 }
 
-console.log(selectionSort([5, 3, 6, 2, 10]));
+//console.log(selectionSort([5, 3, 6, 2, 10]));
